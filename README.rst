@@ -3,6 +3,7 @@ Irasutoya-py
 ============
 
 .. image:: https://travis-ci.org/moriyoshi/irasutoya-py.svg?branch=master
+   :target: https://travis-ci.org/moriyoshi/irasutoya-py
 
 Irasutoya-py scrapes over www.irasutoya.com and fetchs information about illustrations provided there.
 
