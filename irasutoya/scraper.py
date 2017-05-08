@@ -28,7 +28,7 @@ def extract_text(n):
 class Scraper(object):
     allowed_content_types = [
         'text/html',
-        'application/xml+html',
+        'application/xhtml+xml',
         ]
 
     def __init__(self, index_page_url='http://www.irasutoya.com/', requester=urllib3.PoolManager(), parser_factory=etree.HTMLParser):
